@@ -9,12 +9,12 @@ export default function Home() {
 <h1 className="text-5xl font-extrabold text-blue-700 dark:text-indigo-300 mb-4 drop-shadow-md">
             블록체인 카운터 앱
           </h1>
-          <p className="text-gray-600 dark:text-gray-300">
-            MetaMask를 사용하여 스마트 컨트랙트와 상호작용하세요
-          </p>
           
           <h1 className="text-2xl font-bold text-blue-500 dark:text-blue-400 mb-4">
             92113748 윤현식 </h1>
+          <p className="text-gray-600 dark:text-gray-300">
+            MetaMask를 사용하여 스마트 컨트랙트와 상호작용하세요
+          </p>
         </div>
 
         <CounterApp />
